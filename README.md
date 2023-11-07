@@ -1,6 +1,5 @@
 # java-spring
 
-# How /books works ?
 
 1. **Controllers/BookControllers** - The browser is going to be doing an HTTP GET against port 8080 that is going to we're doing a GET operation against books. 
                                       So right now this request mapping says I'm going to handle handle that books.
